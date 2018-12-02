@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another Sample
+title: Gotomote iOS application release
 categories:
 - blog
 ---
