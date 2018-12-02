@@ -5,13 +5,8 @@ categories:
 - blog
 ---
 
-Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr
-meggings hella selvage. Butcher bespoke seitan, cornhole umami gentrify put a bird
-on it occupy trust fund. Umami whatever kitsch, locavore fingerstache Tumblr pork belly
-[keffiyeh](#). Chia Echo Park Pitchfork, Blue Bottle [hashtag](#) stumptown skateboard selvage
-mixtape. Echo Park retro butcher banjo cardigan, seitan flannel Brooklyn paleo fixie
-Truffaut. Forage mustache Thundercats next level disrupt. Bichycle rights forage tattooed
-chia, **wayfarers** swag raw denim hashtag biodiesel occupy gastropub!
+Gotomote is a very special project to <a href="https://github.com/29satnam/">me</a>. I&#8217;m proud to say that it&#8217;s a part of the project OnStep. OnStep is a DIY computerized Goto controller for Telescope mounts. <a href="https://groups.io/g/onstep/wiki/home">OnStep</a> is led by <a href="https://github.com/hjd1964">Howard Dutton</a> and <a href="https://github.com/hjd1964">Khalid Baheyeldin</a>. Hundreds of hours of work have gone into OnStep, and we&#8217;re dedicated to making it better every day. Thank you for making it part of your world.</p>
+<p style="text-align: right">&#8212; Satnam</p>
 
 ---
 
