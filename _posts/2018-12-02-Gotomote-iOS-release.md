@@ -21,3 +21,5 @@ Gotomote app can connect to OnStep over IP. It communicates to a 'Serial Port' t
 
 - It's easy-to-use and built over powerful asynchronous socket.
 - Queued non-blocking reads and writes, with optional timeouts.
+- App has a database of Quasar, Messier and a vast database of Galaxy with a named bright star catalog.
+- 
