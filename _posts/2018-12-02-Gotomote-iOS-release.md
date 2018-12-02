@@ -26,3 +26,13 @@ Gotomote app can connect to OnStep over IP. It communicates to a 'Serial Port' t
 - Parking functionality includes the ability to set the park position (anywhere you like), park, and to unpark.
 - The guide are for pulse-guiding, centering objects, etc.
 - PEC programming and much more.
+
+---
+
+## Credits
+
+- Development credits for this app obviously goes to me.
+- Design and user interface for the same by my friend <a href="https://www.instagram.com/Zac.wolff/">Zachary</a>.
+- <a href="https://github.com/hjd1964">Howard Dutton</a> and <a href="https://github.com/hjd1964">Khalid Baheyeldin</a> for OnStep.
+- Brightest stars database by <a href="http://www.atlasoftheuniverse.com/stars.html">atlasoftheuniverse.com</a></li>
+- Messier, Quasar, Galaxy data by <a href="https://github.com/lorenzoriano/astro-organizer/tree/master/catalogues/SAC_DeepSky_ver81">astro-organizer</a></li>
