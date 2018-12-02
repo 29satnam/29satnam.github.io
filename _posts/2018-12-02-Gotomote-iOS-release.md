@@ -27,7 +27,7 @@ Gotomote app can connect to OnStep over IP. It communicates to a 'Serial Port' t
 - Initialization of date/time/location, and align with one, two, or three stars.  Align with one-star to quickly get going or two/three stars to correct for polar axis misalignment, cone error, etc.
 - Parking functionality includes the ability to set the park position (anywhere you like), park, and to unpark.
 - The guide are for pulse-guiding, centering objects, etc.
-- PEC programming and much more.
+- Commands for PEC programming and much more.
 
 ---
 
