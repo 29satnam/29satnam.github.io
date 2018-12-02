@@ -5,23 +5,23 @@ categories:
 - blog
 ---
 
-Gotomote is a very special project to <a href="https://github.com/29satnam/">me</a>. I&#8217;m proud to say that it&#8217;s a part of the project OnStep. OnStep is a DIY computerized Goto controller for Telescope mounts. <a href="https://groups.io/g/onstep/wiki/home">OnStep</a> is led by <a href="https://github.com/hjd1964">Howard Dutton</a> and <a href="https://github.com/hjd1964">Khalid Baheyeldin</a>. Hundreds of hours of work have gone into OnStep, and we&#8217;re dedicated to making it better every day. Thank you for making it part of your world.
+Gotomote is a very special project to me. I&#8217;m proud to say that it&#8217;s a part of the project OnStep. OnStep is a DIY computerized Goto controller for Telescope mounts. <a href="https://groups.io/g/onstep/wiki/home">OnStep</a> is led by <a href="https://github.com/hjd1964">Howard Dutton</a> and <a href="https://github.com/hjd1964">Khalid Baheyeldin</a>. Hundreds of hours of work have gone into OnStep, and we&#8217;re dedicated to making it better every day. Thank you for making it part of your world.
 
-> Gotomote composes two words 'GoTo+Remote'. "GoTo" refers to a type of telescope mount that can automatically point a telescope at astronomical objects that the user selects.
+> Gotomote composes two words &#8217;GoTo+Remote&#8217;. "GoTo" refers to a type of telescope mount that can automatically point a telescope at astronomical objects that the user selects.
 
 ---
 
-# It's all in the game.
+# It&#8217;s all in the game.
 
 ## How does it work?
 
-Gotomote app can connect to OnStep over IP. It communicates to a 'Serial Port' terminal server listening to a TCP socket. Gotomote opens a network connection to a socket and any data app send on the output stream get sent out of the serial port and any data sent to the serial port gets delivered over the input stream associated with the connection.
+Gotomote app can connect to OnStep over IP. It communicates to a &#8217;Serial Port&#8217; terminal server listening to a TCP socket. Gotomote opens a network connection to a socket and any data app send on the output stream get sent out of the serial port and any data sent to the serial port gets delivered over the input stream associated with the connection.
 
 ---
 
 ## Features: What does it do?
 
-- It's easy-to-use and built over powerful asynchronous socket.
+- It&#8217;s easy-to-use and built over powerful asynchronous socket.
 - Queued non-blocking reads and writes, with optional timeouts.
 - App has a database of Quasar, Messier and a vast database of Galaxy with a named bright star catalog.
 - Initialization of date/time/location, and align with one, two, or three stars.  Align with one-star to quickly get going or two/three stars to correct for polar axis misalignment, cone error, etc.
@@ -40,4 +40,4 @@ Gotomote app can connect to OnStep over IP. It communicates to a 'Serial Port' t
 - Messier, Quasar, Galaxy data by <a href="https://github.com/lorenzoriano/astro-organizer/tree/master/catalogues/SAC_DeepSky_ver81">astro-organizer</a>.
 
 ## Release?
-It's coming to *App Store* exclusively this week. 
+It&#8217;s coming to *App Store* exclusively this week.
