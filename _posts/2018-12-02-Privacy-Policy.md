@@ -30,5 +30,5 @@ categories:
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
 
-            <li><a href="mailto:29satnam@gmail.com?Subject=Question%20regarding%privacy%20policy" target="_top">@29satnam@gmail.com</a></li>
+            <li>Mail: <a href="mailto:29satnam@gmail.com?Subject=Question%20regarding%privacy%20policy" target="_top">@29satnam@gmail.com</a></li>
     </ul>
