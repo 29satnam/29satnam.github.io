@@ -7,6 +7,8 @@ categories:
 
 Gotomote is a very special project to <a href="https://github.com/29satnam/">me</a>. I&#8217;m proud to say that it&#8217;s a part of the project OnStep. OnStep is a DIY computerized Goto controller for Telescope mounts. <a href="https://groups.io/g/onstep/wiki/home">OnStep</a> is led by <a href="https://github.com/hjd1964">Howard Dutton</a> and <a href="https://github.com/hjd1964">Khalid Baheyeldin</a>. Hundreds of hours of work have gone into OnStep, and we&#8217;re dedicated to making it better every day. Thank you for making it part of your world.
 
+> Gotomote composes two words 'GoTo+Remote'. In amateur astronomy, "GoTo" refers to a type of telescope mount and related software that can automatically point a telescope at astronomical objects that the user selects.
+
 ---
 
 # It's all in the game.
@@ -31,8 +33,8 @@ Gotomote app can connect to OnStep over IP. It communicates to a 'Serial Port' t
 
 ## Credits
 
-- Development credits for this app obviously goes to me.
+- Development credits for Gotomote iOS app obviously goes to me.
 - Design and user interface for the same by my friend <a href="https://www.instagram.com/Zac.wolff/">Zachary</a>.
 - <a href="https://github.com/hjd1964">Howard Dutton</a> and <a href="https://github.com/hjd1964">Khalid Baheyeldin</a> for OnStep.
-- Brightest stars database by <a href="http://www.atlasoftheuniverse.com/stars.html">atlasoftheuniverse.com</a></li>
-- Messier, Quasar, Galaxy data by <a href="https://github.com/lorenzoriano/astro-organizer/tree/master/catalogues/SAC_DeepSky_ver81">astro-organizer</a></li>
+- Brightest stars database by <a href="http://www.atlasoftheuniverse.com/stars.html">atlasoftheuniverse.com</a>.
+- Messier, Quasar, Galaxy data by <a href="https://github.com/lorenzoriano/astro-organizer/tree/master/catalogues/SAC_DeepSky_ver81">astro-organizer</a>.
