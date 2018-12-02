@@ -39,5 +39,7 @@ Gotomote app can connect to OnStep over IP. It communicates to a &#8217;Serial P
 - Brightest stars database by <a href="http://www.atlasoftheuniverse.com/stars.html">atlasoftheuniverse.com</a>.
 - Messier, Quasar, Galaxy data by <a href="https://github.com/lorenzoriano/astro-organizer/tree/master/catalogues/SAC_DeepSky_ver81">astro-organizer</a>.
 
+---
+
 ## Release?
-It&#8217;s coming to *App Store* exclusively this week.
+It&#8217;s coming to **App Store** exclusively this week.

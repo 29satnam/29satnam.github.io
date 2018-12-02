@@ -7,7 +7,6 @@ categories:
 
 <p>Effective date: December 02, 2018</p>
 
-
 <p>Satnam Singh ("us", "we", or "our") operates the Gotomote mobile application (the "Service").</p>
 
 <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
@@ -31,5 +30,5 @@ categories:
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
 
-            <li>By mail: 29satnam@gmail.com</li>
+            <li><a href="mailto:29satnam@gmail.com?Subject=Question%20regarding%privacy%20policy" target="_top">@29satnam@gmail.com</a></li>
     </ul>
