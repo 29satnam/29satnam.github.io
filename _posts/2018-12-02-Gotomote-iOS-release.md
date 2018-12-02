@@ -23,7 +23,7 @@ Gotomote app can connect to OnStep over IP. It communicates to a &#8217;Serial P
 
 - It&#8217;s easy-to-use and built over powerful asynchronous socket.
 - Queued non-blocking reads and writes, with optional timeouts.
-- App has a database of Quasar, Messier and a vast database of Galaxy with a named bright star catalog.
+- App has a database of Quasar, Messier and a vast database of Galaxies with a named bright star catalog.
 - Initialization of date/time/location, and align with one, two, or three stars.  Align with one-star to quickly get going or two/three stars to correct for polar axis misalignment, cone error, etc.
 - Parking functionality includes the ability to set the park position (anywhere you like), park, and to unpark.
 - The guide are for pulse-guiding, centering objects, etc.
