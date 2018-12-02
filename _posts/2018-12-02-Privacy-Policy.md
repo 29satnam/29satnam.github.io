@@ -15,7 +15,7 @@ categories:
 
 <h2>Information Collection And Use</h2>
 
-<p>We don't store your data, period. We physically can't. We have nowhere to store it. Gotomote is completely offline. We don't even have a server. So even if Justin Bieber asked nicely to see your data, we wouldn't have anything to show him.</p>
+<p>We don't store your data, period. We physically can't. We have nowhere to store it. Gotomote is completely offline. We don't even have a server. So even if Ariana Grande asked nicely to see your data, we wouldn't have anything to show her.</p>
 
 <h2>Links To Other Sites</h2>
 <p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p>
