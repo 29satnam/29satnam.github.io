@@ -9,23 +9,10 @@ Gotomote is a very special project to <a href="https://github.com/29satnam/">me<
 
 ---
 
-# It's all in the game.
-
 ## How does it work?
 
 Gotomote app can connect to OnStep over IP. It communicates to a 'Serial Port' terminal server listening to a TCP socket. Gotomote opens a network connection to a socket and any data app send on the output stream get sent out of the serial port and any data sent to the serial port gets delivered over the input stream associated with the connection.
 
-> This is a quote from someone famous about productivity
+> It's all in the game.
 
-
-Syntax highlighting with Solarized theme.
-
-{% highlight ruby %}
-class User < ActiveRecord::Base
-  attr_accessible :email, :name
-
-  ... tons of other crap ...
-
-end
-
-{% endhighlight %}
+## Features: What does it do?
