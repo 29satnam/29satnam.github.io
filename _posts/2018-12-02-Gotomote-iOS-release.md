@@ -41,5 +41,6 @@ Gotomote app can connect to OnStep over IP. It communicates to a &#8217;Serial P
 
 ---
 
-## Release?
-It&#8217;s coming to **App Store** exclusively this week.
+## Release
+
+https://itunes.apple.com/us/app/gotomote/id1445152416?mt=8
