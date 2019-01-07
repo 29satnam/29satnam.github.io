@@ -21,6 +21,9 @@ categories:
 <p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p>
 <p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
 
+<h2>Crash data collection</h2>
+<p>Gotmote uses Crashlystics for crash data collection. For more information on this please have a look at <a href="https://docs.fabric.io/android/fabric/data-privacy.html">Crashlystics privacy policy</a>.</p>
+
 <h2>Changes To This Privacy Policy</h2>
 <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
 <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
