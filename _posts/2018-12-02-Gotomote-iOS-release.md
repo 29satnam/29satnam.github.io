@@ -38,6 +38,7 @@ Gotomote app can connect to OnStep over IP. It communicates to a &#8217;Serial P
 - <a href="https://github.com/hjd1964">Howard Dutton</a> and <a href="https://github.com/hjd1964">Khalid Baheyeldin</a> for OnStep.
 - Brightest stars database by <a href="http://www.atlasoftheuniverse.com/stars.html">atlasoftheuniverse.com</a>.
 - Messier, Quasar, Galaxy data by <a href="https://github.com/lorenzoriano/astro-organizer/tree/master/catalogues/SAC_DeepSky_ver81">astro-organizer</a>.
+- For debugging, helping me put together OnStep commands and build my own OnStep Controller rig I thank <a href="mailto:Halo24052001@gmail.com">Marouane Gaoua</a>.  
 
 ---
 
