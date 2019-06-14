@@ -5,4 +5,4 @@ categories:
 - blog
 ---
 
-<p> Just tap on the link to <a href="https://docs.fabric.io/android/fabric/data-privacy.html">install the app</a>.</p>
+<p> Just tap here to <a href="https://docs.fabric.io/android/fabric/data-privacy.html">install the app</a>.</p>
