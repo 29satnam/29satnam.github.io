@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Privacy Policy for Gotomote
+title: Privacy Policy for hashtagX
 categories:
 - blog
 ---
 
 <p>Effective date: December 02, 2018</p>
 
-<p>Satnam Singh ("us", "we", or "our") operates the Gotomote mobile application (the "Service").</p>
+<p>Satnam Singh ("us", "we", or "our") operates the hashtagX mobile application (the "Service").</p>
 
 <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
@@ -15,14 +15,14 @@ categories:
 
 <h2>Information Collection And Use</h2>
 
-<p>We don't store your data, period. We physically can't. We have nowhere to store it. Gotomote is completely offline. We don't even have a server. So even if Ariana Grande asked nicely to see your data, we wouldn't have anything to show her.</p>
+<p>We don't store your data, period. We physically can't. So even if Ariana Grande asked nicely to see your data, we wouldn't have anything to show her.</p>
 
 <h2>Links To Other Sites</h2>
 <p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p>
 <p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
 
 <h2>Crash data collection</h2>
-<p>Gotmote uses Crashlystics for crash data collection. For more information on this please have a look at <a href="https://docs.fabric.io/android/fabric/data-privacy.html">Crashlystics privacy policy</a>.</p>
+<p>Gotmote uses Crashlystics for crash data collection. For more information on this please have a look at <a href="https://policies.google.com/privacy">Crashlystics privacy policy</a>.</p>
 
 <h2>Changes To This Privacy Policy</h2>
 <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
