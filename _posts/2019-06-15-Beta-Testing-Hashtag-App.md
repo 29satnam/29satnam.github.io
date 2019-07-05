@@ -5,4 +5,6 @@ categories:
 - blog
 ---
 
-<p> Just tap here to <a href="">install the app</a>.</p>
+<p> Just tap here to install the app.</p>
+
+<p> Edit 1: Link has been removed.<p>
