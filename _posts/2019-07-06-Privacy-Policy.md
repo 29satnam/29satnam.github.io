@@ -5,7 +5,7 @@ categories:
 - blog
 ---
 
-<p>Effective date: December 02, 2018</p>
+<p>Effective date: July 06, 2019</p>
 
 <p>Satnam Singh ("us", "we", or "our") operates the hashtagX mobile application (the "Service").</p>
 
