@@ -40,6 +40,10 @@ categories:
 
 <p>Satnam Singh reserves the right to grant licences to use the Software to third parties.</p>
 
+<h2>Subscriptions Terms</h2>
+
+<p>Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.</p>
+
 <h2>Termination</h2>
 
 <p>This EULA agreement is effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time upon written notice to Satnam Singh.</p>
