@@ -1,47 +1,51 @@
 ---
 layout: post
-title: Gotomote iOS application release
+title: EULA for hashtagX
 categories:
 - blog
 ---
 
-Gotomote is a very special project to me. I&#8217;m proud to say that it&#8217;s a part of the project OnStep. OnStep is a DIY computerized Goto controller for Telescope mounts. <a href="https://groups.io/g/onstep/wiki/home">OnStep</a> is led by <a href="https://github.com/hjd1964">Howard Dutton</a> and <a href="https://github.com/hjd1964">Khalid Baheyeldin</a>. Hundreds of hours of work have gone into OnStep, and we&#8217;re dedicated to making it better every day. Thank you for making it part of your world.
+<p>Effective date: January 01, 2020</p>
 
-> Gotomote composes two words &#8217;GoTo+Remote&#8217;. "GoTo" refers to a type of telescope mount that can automatically point a telescope at astronomical objects that the user selects.
+<h1>End-User License Agreement (EULA) of hashtagX</h1>
 
----
+<p>This End-User License Agreement ("EULA") is a legal agreement between you and Satnam Singh</p>
 
-# It&#8217;s all in the game.
+<p>This EULA agreement governs your acquisition and use of our hashtagX software ("Software") directly from Satnam Singh or indirectly through a Satnam Singh authorized reseller or distributor (a "Reseller").</p>
 
-## How does it work?
+<p>Please read this EULA agreement carefully before completing the installation process and using the hashtagX software. It provides a license to use the hashtagX software and contains warranty information and liability disclaimers.</p>
 
-Gotomote app can connect to OnStep over IP. It communicates to a &#8217;Serial Port&#8217; terminal server listening to a TCP socket. Gotomote opens a network connection to a socket and any data app send on the output stream get sent out of the serial port and any data sent to the serial port gets delivered over the input stream associated with the connection.
+<p>If you register for a free trial of the hashtagX software, this EULA agreement will also govern that trial. By clicking "accept" or installing and/or using the hashtagX software, you are confirming your acceptance of the Software and agreeing to become bound by the terms of this EULA agreement.</p>
 
----
+<p>If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use the Software, and you must not accept this EULA agreement.</p>
 
-## Features: What does it do?
+</p>This EULA agreement shall apply only to the Software supplied by Satnam Singh herewith regardless of whether other software is referred to or described herein. The terms also apply to any Satnam Singh updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply. This EULA was created by EULA Template for hashtagX.</p>
 
-- It&#8217;s easy-to-use and built over powerful asynchronous socket.
-- Queued non-blocking reads and writes, with optional timeouts.
-- App has a database of Quasar, Messier and a vast database of Galaxies with a named bright star catalog.
-- Initialization of date/time/location, and align with one, two, or three stars.  Align with one-star to quickly get going or two/three stars to correct for polar axis misalignment, cone error, etc.
-- Parking functionality includes the ability to set the park position (anywhere you like), park, and to unpark.
-- The guide are for pulse-guiding, centering objects, etc.
-- Commands for PEC programming and much more.
+<h2>License Grant</h2>
 
----
+<p>Satnam Singh hereby grants you a personal, non-transferable, non-exclusive licence to use the hashtagX software on your devices in accordance with the terms of this EULA agreement.</p>
 
-## Credits
+<p>You are permitted to load the hashtagX software (for example a PC, laptop, mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of the hashtagX software.</p>
 
-- Development credits for Gotomote iOS app obviously goes to me.
-- Design and user interface for the same by my friend <a href="https://www.instagram.com/Zac.wolff/">Zachary</a>.
-- <a href="https://github.com/hjd1964">Howard Dutton</a> and <a href="https://github.com/hjd1964">Khalid Baheyeldin</a> for OnStep.
-- Brightest stars database by <a href="http://www.atlasoftheuniverse.com/stars.html">atlasoftheuniverse.com</a>.
-- Messier, Quasar, Galaxy data by <a href="https://github.com/lorenzoriano/astro-organizer/tree/master/catalogues/SAC_DeepSky_ver81">astro-organizer</a>.
-- For debugging, helping me put together OnStep commands and build my own OnStep Controller rig I thank <a href="mailto:Halo24052001@gmail.com">Marouane Gaoua</a>.  
+<h2>You are not permitted to:</h2>
 
----
+<p>Edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software nor permit the whole or any part of the Software to be combined with or become incorporated in any other software, nor decompile, disassemble or reverse engineer the Software or attempt to do any such things</p>
+<p>Reproduce, copy, distribute, resell or otherwise use the Software for any commercial purpose</p>
+<p>Allow any third party to use the Software on behalf of or for the benefit of any third party</p>
+<p>Use the Software in any way which breaches any applicable local, national or international law</p>
+<p>use the Software for any purpose that Satnam Singh considers is a breach of this EULA agreement</p>
+<h2>Intellectual Property and Ownership</h2>
 
-## Release
+<p>Satnam Singh shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you. The Software (and the copyright, and other intellectual property rights of whatever nature in the Software, including any modifications made thereto) are and shall remain the property of Satnam Singh.</p>
 
-Gotomote is available on <a href="https://itunes.apple.com/us/app/gotomote/id1445152416?mt=8">App Store</a>.
+<p>Satnam Singh reserves the right to grant licences to use the Software to third parties.</p>
+
+<h2>Termination</h2>
+
+<p>This EULA agreement is effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time upon written notice to Satnam Singh.</p>
+
+<p>It will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement.</p>
+
+<h2>Governing Law</h2>
+
+<p>This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of in.</p>
