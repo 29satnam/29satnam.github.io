@@ -81,4 +81,4 @@ categories:
             <li>Mail: <a href="mailto:29satnam@gmail.com?Subject=Question%20regarding%privacy%20policy" target="_top">@29satnam@gmail.com</a></li>
     </ul>
 
-<h3>Last updated: 01/01/2020</h3>
+<p>Last updated: 01/01/2020</p>
