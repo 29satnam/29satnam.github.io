@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Privacy Policy for hashtagX
+title: Privacy Policy for KEV
 categories:
 - blog
 ---
@@ -9,7 +9,7 @@ categories:
 
 <h1>Privacy Policy</h1>
 
-<p>Satnam Singh ("us", "we", or "our") operates the hashtagX mobile application (the "Service").</p>
+<p>Satnam Singh ("us", "we", or "our") operates the KEV mobile application (the "Service").</p>
 
 <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
