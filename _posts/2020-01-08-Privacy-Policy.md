@@ -5,7 +5,7 @@ categories:
 - blog
 ---
 
-<p>Effective date: July 06, 2019</p>
+<p>Effective date: January 08, 2020</p>
 
 <h1>Privacy Policy</h1>
 
