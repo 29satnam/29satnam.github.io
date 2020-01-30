@@ -22,4 +22,4 @@ The white balance is a correction of color rendition to make the picture from th
 ## Credits
 
 - Development credits for KEV iOS app obviously goes to me.
-- Design and user interface for the same by my friend <a href="https://www.instagram.com/Zac.wolff/">Zachary</a>.
+- Idea, design and user interface for the same by my friend <a href="https://www.instagram.com/Zac.wolff/">Zachary</a>.
