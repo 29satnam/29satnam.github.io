@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Beta Testing hashtagX
+title: Beta Testing Tishoo
 categories:
 - blog
 ---
 
 <p> Just tap here to install the app.</p>
-
-<p> Edit 1: Link has been removed.<p>
+<a href="itms-services://?action=download-manifest&amp;url=/files/AdHoc.plist" class="grayButton">Install App</a>
