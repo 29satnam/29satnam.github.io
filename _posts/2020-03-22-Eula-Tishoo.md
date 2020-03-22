@@ -1,31 +1,31 @@
 ---
 layout: post
-title: EULA for KEV
+title: EULA for Tishoo
 categories:
 - blog
 ---
 
 <p>Effective date: January 08, 2020</p>
 
-<h1>End-User License Agreement (EULA) of KEV</h1>
+<h1>End-User License Agreement (EULA) of Tishoo</h1>
 
 <p>This End-User License Agreement ("EULA") is a legal agreement between you and Satnam Singh</p>
 
-<p>This EULA agreement governs your acquisition and use of our KEV software ("Software") directly from Satnam Singh or indirectly through a Satnam Singh authorized reseller or distributor (a "Reseller").</p>
+<p>This EULA agreement governs your acquisition and use of our Tishoo software ("Software") directly from Satnam Singh or indirectly through a Satnam Singh authorized reseller or distributor (a "Reseller").</p>
 
-<p>Please read this EULA agreement carefully before completing the installation process and using the KEV software. It provides a license to use the KEV software and contains warranty information and liability disclaimers.</p>
+<p>Please read this EULA agreement carefully before completing the installation process and using the Tishoo software. It provides a license to use the Tishoo software and contains warranty information and liability disclaimers.</p>
 
-<p>If you register for a free trial of the KEV software, this EULA agreement will also govern that trial. By clicking "accept" or installing and/or using the KEV software, you are confirming your acceptance of the Software and agreeing to become bound by the terms of this EULA agreement.</p>
+<p>If you register for a free trial of the Tishoo software, this EULA agreement will also govern that trial. By clicking "accept" or installing and/or using the Tishoo software, you are confirming your acceptance of the Software and agreeing to become bound by the terms of this EULA agreement.</p>
 
 <p>If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use the Software, and you must not accept this EULA agreement.</p>
 
-<p>This EULA agreement shall apply only to the Software supplied by Satnam Singh herewith regardless of whether other software is referred to or described herein. The terms also apply to any Satnam Singh updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply. This EULA was created by EULA Template for KEV.</p>
+<p>This EULA agreement shall apply only to the Software supplied by Satnam Singh herewith regardless of whether other software is referred to or described herein. The terms also apply to any Satnam Singh updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply. This EULA was created by EULA Template for Tishoo.</p>
 
 <h2>License Grant</h2>
 
-<p>Satnam Singh hereby grants you a personal, non-transferable, non-exclusive licence to use the KEV software on your devices in accordance with the terms of this EULA agreement.</p>
+<p>Satnam Singh hereby grants you a personal, non-transferable, non-exclusive licence to use the Tishoo software on your devices in accordance with the terms of this EULA agreement.</p>
 
-<p>You are permitted to load the KEV software (for example a PC, laptop, mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of the KEV software.</p>
+<p>You are permitted to load the Tishoo software (for example a PC, laptop, mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of the Tishoo software.</p>
 
 <h2>You are not permitted to:</h2>
 
