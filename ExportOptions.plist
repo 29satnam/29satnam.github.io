@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.arcane.arcaneApp</string>
+				<string>com.silverseahog.tishoo</string>
 				<key>bundle-version</key>
-				<string>3.0</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>com.silverseahog.tishoo</string>
 				<key>title</key>
