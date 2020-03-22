@@ -2,26 +2,42 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>compileBitcode</key>
-	<true/>
-	<key>destination</key>
-	<string>export</string>
-	<key>method</key>
-	<string>ad-hoc</string>
-	<key>provisioningProfiles</key>
-	<dict>
-		<key>com.silverseahog.Tishoo</key>
-		<string>Tishoo</string>
-	</dict>
-	<key>signingCertificate</key>
-	<string>Apple Distribution</string>
-	<key>signingStyle</key>
-	<string>manual</string>
-	<key>stripSwiftSymbols</key>
-	<true/>
-	<key>teamID</key>
-	<string>25DZLP69MU</string>
-	<key>thinning</key>
-	<string>&lt;none&gt;</string>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/29satnam/29satnam.github.io/blob/master/Tishoo.ipa?raw=true</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://yahoo.com</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://yahoo.com</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.arcane.arcaneApp</string>
+				<key>bundle-version</key>
+				<string>3.0</string>
+				<key>kind</key>
+				<string>com.silverseahog.tishoo</string>
+				<key>title</key>
+				<string>Tishoo</string>
+			</dict>
+		</dict>
+	</array>
 </dict>
 </plist>
