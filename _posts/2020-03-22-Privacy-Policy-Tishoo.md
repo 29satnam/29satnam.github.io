@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Privacy Policy for KEV
+title: Privacy Policy for Tishoo
 categories:
 - blog
 ---
 
-<p>Effective date: January 08, 2020</p>
+<p>Effective date: March 22, 2020</p>
 
 <h1>Privacy Policy</h1>
 
-<p>Satnam Singh ("us", "we", or "our") operates the KEV mobile application (the "Service").</p>
+<p>Satnam Singh ("us", "we", or "our") operates the Tishoo mobile application (the "Service").</p>
 
 <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
