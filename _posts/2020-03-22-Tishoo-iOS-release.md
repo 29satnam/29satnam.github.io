@@ -22,7 +22,7 @@ With just a few inputs such as number of rolls, number of members using the toil
 - Idea, design and user interface for the same by my friend <a href="https://www.instagram.com/Zac.wolff/">Zachary</a>.
 
 ---
-##<a href="https://apps.apple.com/us/app/tishoo/id1503965803">App Store</a>
+<a href="https://apps.apple.com/us/app/tishoo/id1503965803">App Store</a>
 
 ## Contact Us
 
