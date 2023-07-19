@@ -1,33 +1,42 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
-  - item: Python
-  - item: SQL
-  - item: R
+  - item: Swift
 
 frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+  - item: UIKit
+  - item: SwiftUI
+  - item: Core Data
+  - item: Core Animation
+  - item: Foundation
+  - item: Core Location
+  - item: AVFoundation
+  - item: MapKit
+  - item: CloudKit
+  - item: Core Bluetooth
+  - item: HealthKit
+  - item: SpriteKit
+  - item: SceneKit
+  - item: ARKit
+  - item: Core ML
 
 tools:
-  - item: Bash
-  - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
+  - item: Xcode
+  - item: Swift
+  - item: Objective-C
+  - item: Interface Builder
+  - item: Instruments
+  - item: Cocoa Touch
+  - item: UIKit
+  - item: SwiftUI
+  - item: Core Data
+  - item: TestFlight
+  - item: Git
+  - item: Cocoapods
+  - item: Swift Package Manager (SPM)
+  - item: Firebase
+  - item: App Store Connect
 
 design:
   - item: Sketch
-  - item: InDesign
-  - item: InVision
+  - item: Figma
   - item: Prototyping
   - item: Wireframing
-  - item: User Testing
