@@ -1,6 +1,8 @@
 - name: White Balance Meter AI - KEV
   url: https://apps.apple.com/us/app/white-balance-meter-ai-kev/id1494197457?uo=4
+  code:
   description: KEV turns your iPhone or iPad into a professional and easy-to-use light meter. Minimalistic KEV analyzes live preview of the scene and gives you accurate white balance data in Kelvin. 
+  used:
     - thing: Swift
     - thing: UIKit
     - thing: AVCaptureSession
